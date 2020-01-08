@@ -1,3 +1,3 @@
-# Poor_Analytics
-My first steps in Data Science
-blablabla  changes
+Фишки с работы дата-аналитиком в МТС в соотв директории mts stuff.
+Фишки с учебы все остальное
+Self-learning фишки - Audio_2_text
